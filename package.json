@@ -7,7 +7,7 @@
   "description": "What am I about?",
   "main": "s.js",
   "scripts": {
-    "start": "node s.js"
+    "start": "node bot.js"
   },
   "dependencies": {
     "array-sort": "^1.0.0",
